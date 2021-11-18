@@ -100,4 +100,4 @@ The images that were included in this analysis that display the execution of the
 <p> The new contract balance decreased from 11 eth to 1 eth. accountTwo received those 10 eth as indicated by the last to Withdraw address and amount.</p>
 
 
-<p> The full screen images of each transaction were also included in the Execution_Results folder to show that no bugs/errors occurred.</p>
+<p> The full screen images of each transaction were also included in the Execution_Results folder to show that no bugs/errors occurred while testing the functions of the contract.</p>
